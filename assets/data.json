@@ -1,0 +1,86 @@
+{
+    "socialmedia":{
+      
+      "homeview":{
+        "posts":[
+          {
+            "postNo1":{
+            "profileName":"Bamsel Cooper",
+            "status":"Photographer",
+            "profileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+            "contentUrl":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/photography-logo%2C-camera-logo%2C-modern-camera-design-template-61a629a6b006a5d93947e93c81f16ce4.jpg?ts=1660982220",
+            "desciption":"He also has a handle on social media,and his blog focuses on social media photo..."
+            }
+          },
+          {
+            "postNo2":{
+            "profileName":"williom son",
+            "status":"Cricketer",
+            "profileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+            "contentUrl":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/photography-logo%2C-camera-logo%2C-modern-camera-design-template-61a629a6b006a5d93947e93c81f16ce4.jpg?ts=1660982220",
+            "desciption":"He also has a handle on social media,and his blog focuses on social media photo..."
+            }
+          },
+          {
+            "postNo3":{
+            "profileName":"naseem shah",
+            "status":"Cricketer",
+            "profileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+            "contentUrl":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/photography-logo%2C-camera-logo%2C-modern-camera-design-template-61a629a6b006a5d93947e93c81f16ce4.jpg?ts=1660982220",
+            "desciption":"He also has a handle on social media,and his blog focuses on social media photo..."
+            }
+          },
+          {
+            "postNo4":{
+            "profileName":"Ronaldo",
+            "status":"Foot Baller",
+            "profileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+            "contentUrl":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/photography-logo%2C-camera-logo%2C-modern-camera-design-template-61a629a6b006a5d93947e93c81f16ce4.jpg?ts=1660982220",
+            "desciption":"He also has a handle on social media,and his blog focuses on social media photo..."
+            }
+          },
+          {
+            "postNo5":{
+            "profileName":"qasim ali shah",
+            "status":"speaker",
+            "profileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+            "contentUrl":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/photography-logo%2C-camera-logo%2C-modern-camera-design-template-61a629a6b006a5d93947e93c81f16ce4.jpg?ts=1660982220",
+            "desciption":"He also has a handle on social media,and his blog focuses on social media photo..."
+            }
+          },
+          {
+            "postNo6":{
+            "profileName":"faroz khan",
+            "status":"drama Actor",
+            "profileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+            "contentUrl":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/photography-logo%2C-camera-logo%2C-modern-camera-design-template-61a629a6b006a5d93947e93c81f16ce4.jpg?ts=1660982220",
+            "desciption":"He also has a handle on social media,and his blog focuses on social media photo..."
+            }
+          }
+        ]
+      },
+      
+      "messages":{
+        "messageBody": [
+          "Hi Rayhan.How are you?",
+          "I`m Good.What About you?",
+          "Do you want a burger?",
+          "Would be awesome😍",
+          "-``-``-``-``-``- 02:30"
+        ],
+        "senderName": "Ahmad Haris",
+        "currentStatus":"Active Now",
+        "sentAt": "12:45",
+        "senderPhotoUrl": "https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+        "attachment": "word file"
+      },
+  
+  
+      "notification":{
+        "userProfileUrl":"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg",
+        "title":"Indiya,Mehera",
+        "message":"and 2,035 others loved your post",
+        "timeToRecieve":"30s"
+      }
+    }
+  }
